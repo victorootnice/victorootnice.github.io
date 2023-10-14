@@ -7,8 +7,8 @@
   ![image](https://github.com/victorootnice/victorootnice.github.io/assets/147939577/b7668aa0-d96b-443e-96f6-e09ef0736d43)
 
 3. Click the 'Click here' text to trigger XSS.
-   ``` According to the project author's description, when the configuration file is set to "protect_from_xss":true, it enables the highest level of XSS defense. ```
-
+   3.1. ``` According to the project author's description, when the configuration file is set to "protect_from_xss":true, it enables the highest level of XSS defense. ```
+   3.2. ```Successfully executed```
   ![image](https://github.com/victorootnice/victorootnice.github.io/assets/147939577/c209c350-378b-44af-868c-86a1ba2e667a)
 
 
