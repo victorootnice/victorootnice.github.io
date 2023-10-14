@@ -1,4 +1,4 @@
-0. Currently, it can impact all known versions and bypass XSS defense measures under the highest security mode ( protect_from_xss":true )
+0. Currently, it can impact all known versions and bypass XSS defense measures under the highest security mode ( "protect_from_xss":true )
 1. Create a new markdown note using vnote.
    ![image](https://github.com/victorootnice/victorootnice.github.io/assets/147939577/339b1449-e0ff-4609-b341-466f7b16fead)
 
