@@ -3,7 +3,8 @@
 
 2. Write an XSS payload into the markdown file.
   ```<xss onclick="alert(1)" style=display:block>Click here</xss>```
-  ![image](https://github.com/victorootnice/victorootnice.github.io/assets/147939577/bb4724e7-64bd-49e7-b218-fa1aedb2e7c5)
+  ![image](https://github.com/victorootnice/victorootnice.github.io/assets/147939577/b7668aa0-d96b-443e-96f6-e09ef0736d43)
 
 3. Click the 'Click here' text to trigger XSS.
-  ![image](https://github.com/victorootnice/victorootnice.github.io/assets/147939577/7be8bf84-a1e2-4461-9027-4d9481430364)
+  ![image](https://github.com/victorootnice/victorootnice.github.io/assets/147939577/2cd1ea36-9573-4dae-b9f6-4408c1711851)
+
